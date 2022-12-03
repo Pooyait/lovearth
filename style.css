@@ -1,1 +1,8 @@
+@font-face {
+  font-family: tahoma;
+  src: url(sansation_light.woff);
+}
 
+div {
+  font-family: tahoma;
+}
