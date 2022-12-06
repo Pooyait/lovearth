@@ -1,7 +1,4 @@
-@font-face {
-  font-family: tahoma;
-}
-
-div {
-  font-family: tahoma;
+.responsive {
+  width: 100%;
+  height: auto;
 }
