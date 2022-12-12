@@ -41,9 +41,7 @@ font-weight:normal;
 }
 
 a:link {
-    font-family: Tahoma, Geneva, sans-serif;
-    font-size: 12px;
-    color: #06C;
+    color: #008CC7;
     text-decoration: none;
 }
 a:visited {
@@ -53,5 +51,5 @@ a:hover {
     color: #000000;
 }
 a:active {
-    background-color: #008CC7;
+    color: #008CC7;
 }
