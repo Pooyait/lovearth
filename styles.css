@@ -47,11 +47,11 @@ a:link {
     text-decoration: none;
 }
 a:visited {
-    color: #C30;
+    color: #008CC7;
 }
 a:hover {
     color: #008CC7;
 }
 a:active {
-    background-color: #999;
+    background-color: #008CC7;
 }
