@@ -41,15 +41,15 @@ font-weight:normal;
 }
 
 a:link {
-    color: #008CC7;
+    color: #c70000;
     text-decoration: none;
 }
 a:visited {
-    color: #008CC7;
+    color: #c70000;
 }
 a:hover {
     color: #000000;
 }
 a:active {
-    color: #008CC7;
+    color: #c70000;
 }
